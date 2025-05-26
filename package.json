@@ -1,0 +1,19 @@
+{
+  "name": "read-bridge-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.12.1+sha1.7084e7df42ee1d221994c2c2599277a2a937f050",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
