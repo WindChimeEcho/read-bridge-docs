@@ -16,7 +16,7 @@ hero:
       link: /guide/getting-started
     - theme: alt
       text: 功能介绍
-      link: /features
+      link: /introduction
 
 features:
   - icon: 📚
